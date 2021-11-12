@@ -86,3 +86,8 @@ Dabeiyuzhou:2017-2018
 ![271636709900_ pic](https://user-images.githubusercontent.com/94148374/141445570-0f16dc56-2f8c-4cfa-8fef-d6d59719fd4c.jpg)
 ![281636709901_ pic](https://user-images.githubusercontent.com/94148374/141445591-0c33e9b6-d0f8-45ab-a1b8-8490e2efd8b3.jpg)
 
+**Virtual Butterflies by KunHao Lin**
+
+Also there is a virtual butterfly project. He uses data as well as neural network algorithms to synthesize insects, like a kind of human-machine collaborative creation. The synthetic butterfly patterns obtained by the algorithm are all different and each one is unique. He has now generated over 600,000 butterflies. I think it is a very successful digital art derivative.
+![301636729652_ pic_hd](https://user-images.githubusercontent.com/94148374/141488561-b15f2e44-ec44-4fe8-a6f7-6ec1a55bd828.jpg)
+![321636729654_ pic](https://user-images.githubusercontent.com/94148374/141488588-13138f2a-416b-4e70-9992-54ba7aeed214.jpg)
