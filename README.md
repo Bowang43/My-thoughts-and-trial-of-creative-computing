@@ -1,5 +1,8 @@
-# hello-this-is-bo😀
+# My trial and thoughts about creative computing😀
+
 B0's first repository about creative computing
+
+Hello,this is bo☺️☺️☺️☺️☺️
 
 🦋**My learning log**🦋
 
