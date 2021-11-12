@@ -1,5 +1,5 @@
 # hello-this-is-bo😀
-B0's first repository
+B0's first repository about creative computing
 
 🦋**My learning log**🦋
 
